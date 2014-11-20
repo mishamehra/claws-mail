@@ -1,0 +1,16 @@
+Project Settings
+	Project:	
+	Paths:	E:/PA193--Secure_Coding_principles/Projects/CPPCheck/claws-mail-3.11.1
+	Include paths:	
+	Defines:	
+Previous Scan
+	Path selected:	E:/PA193--Secure_Coding_principles/Projects/CPPCheck/claws-mail-3.11.1
+	Number of files scanned:	384
+	Scan duration:	17 minutes and 56 seconds
+Statistics
+	Errors:	23
+	Warnings:	91
+	Style warnings:	1021
+	Portability warnings:	30
+	Performance warnings:	46
+	Information messages:	956
